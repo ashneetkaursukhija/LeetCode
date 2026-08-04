@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/ashneetkaursukhija/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
