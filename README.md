@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -36,4 +37,9 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
