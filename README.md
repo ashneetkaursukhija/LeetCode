@@ -10,12 +10,14 @@
 | [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
