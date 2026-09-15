@@ -7,11 +7,13 @@
 | [0001-two-sum](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +32,8 @@
 | [1148-article-views-i](https://github.com/ashneetkaursukhija/LeetCode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ashneetkaursukhija/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashneetkaursukhija/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ashneetkaursukhija/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
